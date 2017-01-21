@@ -6,6 +6,5 @@ url = "http://www.cnblogs.com/runforlove"
 request = urllib.request.Request(url)
 #结果
 response = urllib.request.urlopen(request)
-data = response.read()
-data = data.decode('utf-8')
+data = response.read().decode('utf-8')
 print(data)
