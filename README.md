@@ -21,5 +21,13 @@ command + b         跳转到声明处　
 command + O         搜索class
 control + tab       导航窗口切换
 alt + F12           打开命令行栏
+chrome Preserve log 上一个跳转的请求
+
+```
+# 新浪微博登录账号密码
+```
+python教程：http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+账号：zhaoyao2012@3g.sina.cn
+密码：python123
 
 ```
