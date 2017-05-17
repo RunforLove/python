@@ -20,7 +20,7 @@ print(str)
 print("########################")
 print(ord('A'))
 print(chr(65))
-print(u'挖财')
+print(u'sskk')
 print("########################")
 mylist = ['a','b','c']
 print(mylist,len(mylist),mylist[2])
